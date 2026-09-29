@@ -1,0 +1,31 @@
+TikTok Ads Platform Guidelines
+
+TikTok Ads are primarily associated with short-form video advertising.
+
+Important considerations include:
+
+- Creative quality
+- Video engagement
+- Audience relevance
+- CTR
+- CPC
+- Conversion Rate
+- Conversion volume
+- Revenue
+
+Low CPM should not automatically be interpreted as better business
+performance.
+
+Creative-level analysis can be important because performance may vary
+significantly between videos.
+
+When sufficient data exists, compare:
+
+- Creative
+- Audience
+- Placement
+- Campaign
+- Geography
+
+Optimization should ultimately consider the business objective rather
+than engagement metrics alone.

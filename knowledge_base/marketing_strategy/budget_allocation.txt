@@ -1,0 +1,49 @@
+Marketing Budget Allocation Framework
+
+Budget allocation should begin with the campaign objective.
+
+Possible objectives include:
+
+- Awareness
+- Traffic
+- Lead generation
+- Conversions
+- Sales
+
+Historical performance should be analyzed by:
+
+- Platform
+- Campaign
+- Campaign type
+- Geography
+- Audience
+- Channel
+
+Important metrics include:
+
+- Spend
+- CPC
+- CTR
+- Conversion Rate
+- CPA
+- Revenue
+- ROAS
+
+Budget recommendations should consider both efficiency and scale.
+
+A platform with strong ROAS but very low volume may not be able to
+absorb a large budget increase.
+
+A platform with lower efficiency but significant scale may still be
+important to the overall marketing strategy.
+
+Budget changes should normally be incremental.
+
+A recommendation should include:
+
+- Current budget
+- Proposed budget
+- Change percentage
+- Supporting evidence
+- Assumptions
+- Expected impact

@@ -1,0 +1,39 @@
+Meta Ads Platform Guidelines
+
+Meta Ads can support:
+
+- Awareness
+- Traffic
+- Engagement
+- Lead generation
+- Conversions
+- Ecommerce sales
+
+Creative performance can vary significantly across audiences and
+placements.
+
+Important metrics include:
+
+- Impressions
+- Reach
+- Frequency
+- CTR
+- CPC
+- Conversion Rate
+- Conversions
+- Revenue
+- ROAS
+
+High impressions do not necessarily indicate good business performance.
+
+A campaign should be evaluated across the funnel.
+
+If CTR is strong but conversion rate is weak, investigate:
+
+- Landing page
+- Offer
+- Audience quality
+- Conversion tracking
+- User experience
+
+Creative-level performance should be reviewed when enough data exists.

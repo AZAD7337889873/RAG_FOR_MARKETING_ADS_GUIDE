@@ -1,0 +1,29 @@
+Conversion Optimization Framework
+
+Conversion Rate is calculated as:
+
+Conversion Rate = Conversions / Clicks
+
+When conversion rate is low, investigate:
+
+- Landing page experience
+- Offer
+- Audience quality
+- Product-market relevance
+- Conversion tracking
+- Form or checkout friction
+
+A campaign may have strong CTR but weak conversion rate.
+
+This indicates that users are clicking but are not completing the
+desired action at the expected rate.
+
+Conversion optimization should consider:
+
+- Conversion volume
+- Conversion rate
+- Cost per conversion
+- Revenue
+- ROAS
+
+Recommendations should be based on sufficient historical data.

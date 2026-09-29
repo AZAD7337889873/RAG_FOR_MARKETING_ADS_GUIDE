@@ -1,0 +1,29 @@
+Amazon Ads Platform Guidelines
+
+Amazon Ads are highly relevant to ecommerce and product discovery.
+
+Important metrics include:
+
+- Impressions
+- Clicks
+- CTR
+- CPC
+- Orders
+- Conversion Rate
+- Sales
+- Advertising Spend
+- ROAS
+
+Product-level and search-term-level analysis can identify differences
+in performance.
+
+ROAS should be considered together with:
+
+- Product margin
+- Incremental sales
+- Scale
+- Inventory
+- Customer value
+
+A high ROAS does not automatically mean a campaign should receive
+additional budget.

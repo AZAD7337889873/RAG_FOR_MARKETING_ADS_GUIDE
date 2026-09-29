@@ -1,0 +1,28 @@
+LinkedIn Ads Platform Guidelines
+
+LinkedIn Ads can be relevant for:
+
+- B2B marketing
+- Professional audiences
+- Lead generation
+- Account-based marketing
+- Enterprise campaigns
+
+Important metrics include:
+
+- Impressions
+- Clicks
+- CTR
+- CPC
+- Leads
+- Conversion Rate
+- Cost per Lead
+- Revenue
+
+Cost per lead should not be evaluated independently from lead quality.
+
+When downstream revenue data exists, campaign performance should also
+be evaluated using revenue and return metrics.
+
+LinkedIn campaigns can operate against smaller professional audiences,
+which may affect delivery volume and advertising costs.

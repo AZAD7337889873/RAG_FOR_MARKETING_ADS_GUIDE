@@ -1,0 +1,53 @@
+Campaign Optimization Framework
+
+Marketing performance should be analyzed as a funnel:
+
+Impressions
+    ->
+Clicks
+    ->
+Conversions
+    ->
+Revenue
+
+Common diagnostic patterns:
+
+High impressions + low CTR
+
+Potential areas to investigate:
+
+- Creative relevance
+- Audience targeting
+- Messaging
+- Placement
+
+High CTR + low conversion rate
+
+Potential areas to investigate:
+
+- Landing page
+- Offer
+- Audience quality
+- Conversion tracking
+- User experience
+
+Strong conversion rate + weak ROAS
+
+Potential areas to investigate:
+
+- CPC
+- CPM
+- Average order value
+- Revenue per conversion
+- Cost structure
+
+Strong ROAS + low volume
+
+Potential areas to investigate:
+
+- Available audience
+- Budget scalability
+- Campaign reach
+- Incremental performance
+
+Historical campaign data should be used whenever possible.

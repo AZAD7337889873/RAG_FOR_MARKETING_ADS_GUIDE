@@ -1,0 +1,37 @@
+Google Ads Platform Guidelines
+
+Google Ads can support multiple marketing objectives including:
+
+- Awareness
+- Website traffic
+- Lead generation
+- Conversions
+- Ecommerce sales
+
+Search campaigns are particularly useful when users demonstrate active
+search intent.
+
+Shopping campaigns can be useful for ecommerce products and product
+discovery.
+
+Important performance metrics include:
+
+- Impressions
+- Clicks
+- CTR
+- CPC
+- Conversions
+- Conversion Rate
+- Revenue
+- ROAS
+
+CTR should not be evaluated independently when the business objective
+is revenue or conversions.
+
+A campaign with a high CTR but low conversion rate may require review
+of the landing page, audience, offer or message.
+
+Geographic, audience and device segments should be evaluated when enough
+historical data exists.
+
+Budget decisions should consider both efficiency and scalability.

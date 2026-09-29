@@ -1,0 +1,30 @@
+ROAS Optimization Framework
+
+ROAS is calculated as:
+
+ROAS = Revenue / Spend
+
+ROAS can be used to understand revenue generated relative to advertising
+spend.
+
+Low ROAS can result from:
+
+- High CPC
+- High CPM
+- Low conversion rate
+- Low average order value
+- Poor audience quality
+- Tracking issues
+
+A campaign with high ROAS may still have limited scalability.
+
+Therefore ROAS should be evaluated together with:
+
+- Spend
+- Revenue
+- Conversion volume
+- Budget
+- Scale
+- Historical performance
+
+ROAS should not be the only metric used for budget allocation.

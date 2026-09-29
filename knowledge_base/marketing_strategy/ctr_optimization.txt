@@ -1,0 +1,26 @@
+CTR Optimization Framework
+
+CTR is calculated as:
+
+CTR = Clicks / Impressions
+
+Low CTR may indicate:
+
+- Weak creative
+- Poor audience relevance
+- Weak messaging
+- Incorrect placement
+- Poor targeting
+
+Potential optimization areas:
+
+1. Test multiple creatives.
+2. Test audience segments.
+3. Review campaign messaging.
+4. Review placement performance.
+5. Compare current CTR with historical campaign CTR.
+
+CTR should not be optimized independently when the business objective
+is conversions or revenue.
+
+A higher CTR does not necessarily produce higher revenue.

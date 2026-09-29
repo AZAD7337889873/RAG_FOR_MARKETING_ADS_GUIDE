@@ -1,0 +1,207 @@
+
+marketing-ai-advisor/
+│
+├── README.md
+├── requirements.txt
+├── .env
+├── .env.example
+├── .gitignore
+│
+│
+├── backend/
+│   │
+│   ├── app/
+│   │   ├── __init__.py
+│   │   ├── main.py
+│   │   │
+│   │   │
+│   │   ├── config/
+│   │   │   ├── __init__.py
+│   │   │   └── settings.py
+│   │   │
+│   │   │
+│   │   ├── api/
+│   │   │   ├── __init__.py
+│   │   │   │
+│   │   │   └── routes/
+│   │   │       ├── __init__.py
+│   │   │       ├── health.py
+│   │   │       ├── campaigns.py
+│   │   │       ├── predictions.py
+│   │   │       ├── recommendations.py
+│   │   │       ├── simulations.py
+│   │   │       └── chat.py
+│   │   │
+│   │   │
+│   │   ├── schemas/
+│   │   │   ├── __init__.py
+│   │   │   ├── campaign.py
+│   │   │   ├── prediction.py
+│   │   │   ├── recommendation.py
+│   │   │   ├── simulation.py
+│   │   │   └── chat.py
+│   │   │
+│   │   │
+│   │   ├── database/
+│   │   │   ├── __init__.py
+│   │   │   ├── connection.py
+│   │   │   ├── models.py
+│   │   │   └── repositories.py
+│   │   │
+│   │   │
+│   │   ├── services/
+│   │   │   ├── __init__.py
+│   │   │   ├── campaign_service.py
+│   │   │   ├── prediction_service.py
+│   │   │   ├── recommendation_service.py
+│   │   │   ├── simulation_service.py
+│   │   │   └── chat_service.py
+│   │   │
+│   │   │
+│   │   ├── ml/
+│   │   │   ├── __init__.py
+│   │   │   ├── features.py
+│   │   │   ├── predictor.py
+│   │   │   ├── model_loader.py
+│   │   │   │
+│   │   │   └── models/
+│   │   │       ├── __init__.py
+│   │   │       ├── click_model.py
+│   │   │       ├── conversion_model.py
+│   │   │       ├── revenue_model.py
+│   │   │       └── roas_model.py
+│   │   │
+│   │   │
+│   │   ├── recommendation/
+│   │   │   ├── __init__.py
+│   │   │   ├── platform.py
+│   │   │   ├── budget.py
+│   │   │   └── campaign.py
+│   │   │
+│   │   │
+│   │   ├── rag/
+│   │   │   ├── __init__.py
+│   │   │   ├── documents.py
+│   │   │   ├── embeddings.py
+│   │   │   ├── vector_store.py
+│   │   │   ├── retriever.py
+│   │   │   ├── prompts.py
+│   │   │   └── pipeline.py
+│   │   │
+│   │   │
+│   │   ├── llm/
+│   │   │   ├── __init__.py
+│   │   │   ├── base.py
+│   │   │   └── ollama.py
+│   │   │
+│   │   │
+│   │   └── utils/
+│   │       ├── __init__.py
+│   │       ├── logging.py
+│   │       └── exceptions.py
+│   │
+│   │
+│   └── tests/
+│       ├── __init__.py
+│       ├── test_campaigns.py
+│       ├── test_predictions.py
+│       ├── test_recommendations.py
+│       ├── test_simulations.py
+│       ├── test_rag.py
+│       └── test_chat.py
+│
+│
+├── frontend/
+│   │
+│   ├── package.json
+│   ├── next.config.ts
+│   ├── tsconfig.json
+│   ├── .env.local
+│   │
+│   ├── app/
+│   │   ├── page.tsx
+│   │   │
+│   │   ├── campaign/
+│   │   │   └── page.tsx
+│   │   │
+│   │   ├── results/
+│   │   │   └── page.tsx
+│   │   │
+│   │   ├── simulator/
+│   │   │   └── page.tsx
+│   │   │
+│   │   └── chat/
+│   │       └── page.tsx
+│   │
+│   ├── components/
+│   │   ├── CampaignForm.tsx
+│   │   ├── PredictionCards.tsx
+│   │   ├── BudgetAllocation.tsx
+│   │   ├── PlatformComparison.tsx
+│   │   ├── HistoricalEvidence.tsx
+│   │   ├── ChatBox.tsx
+│   │   └── WhatIfSimulator.tsx
+│   │
+│   ├── lib/
+│   │   ├── api.ts
+│   │   └── types.ts
+│   │
+│   └── styles/
+│       └── globals.css
+│
+│
+├── data/
+│   │
+│   ├── raw/
+│   │   └── campaigns.csv
+│   │
+│   └── processed/
+│       └── campaigns.parquet
+│
+│
+├── ml_models/
+│   ├── click_model.pkl
+│   ├── conversion_model.pkl
+│   ├── revenue_model.pkl
+│   └── roas_model.pkl
+│
+│
+├── vectorstore/
+│   │
+│   └── chroma/
+│       └── .gitkeep
+│
+│
+├── knowledge_base/
+│   │
+│   ├── platform_guidelines/
+│   │   ├── google_ads.txt
+│   │   ├── meta_ads.txt
+│   │   ├── tiktok_ads.txt
+│   │   ├── linkedin_ads.txt
+│   │   └── amazon_ads.txt
+│   │
+│   ├── marketing_strategy/
+│   │   ├── budget_allocation.txt
+│   │   ├── campaign_optimization.txt
+│   │   ├── ctr_optimization.txt
+│   │   ├── conversion_optimization.txt
+│   │   └── roas_optimization.txt
+│   │
+│   └── business_rules/
+│       ├── recommendation_rules.txt
+│       └── budget_rules.txt
+│
+│
+├── scripts/
+│   ├── generate_campaign_data.py
+│   ├── load_data.py
+│   ├── train_models.py
+│   └── build_vectorstore.py
+│
+│
+└── docs/
+    ├── architecture.md
+    ├── data_model.md
+    ├── rag_architecture.md
+    └── api.md

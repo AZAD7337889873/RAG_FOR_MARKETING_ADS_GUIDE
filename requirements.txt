@@ -1,0 +1,47 @@
+# Backend/api
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+
+# Database
+#sqlalchemy
+#psycopg2-binary
+#alembic
+
+# Data processing
+pandas
+numpy
+pyarrow
+
+# machine learning
+scikit-learn
+joblib
+
+
+# RAG / Vector Database
+chromadb
+sentence-transformers
+
+# llm or openai
+openai
+
+#http or api clients
+httpx
+requests
+
+# configuration
+python-dotenv
+
+# validation/utilities
+email-validator
+tenacity
+
+#testing
+pytest
+pytest-asyncio
+
+#logging 
+structlog
+
